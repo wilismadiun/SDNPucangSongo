@@ -1,0 +1,40 @@
+body {
+    background-color: #ced6e0;
+}
+
+main {
+    margin: 0px;
+    padding: 0px;
+}
+
+article {
+    padding-bottom: 25px;
+}
+
+article p {
+    text-align: justify;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    background-color: white;
+}
+
+.ekskul {
+    width: 100%;
+    background-color: #2c3e50;
+    text-align: center;
+    height: 200px;
+}
+
+.ekskul h3 {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}

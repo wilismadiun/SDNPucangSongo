@@ -1,0 +1,66 @@
+.bg {
+    background-color: #2d3436;
+}
+
+.bg-footer {
+    background-color: #636e72;
+}
+
+@media screen and (min-width:576px) {
+    main .container {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    main .container {
+        margin-bottom: 0px;
+    }
+}
+
+.container-fluid {
+    padding-top: 0px;
+    background-color: white;
+}
+
+
+/* main .container {} */
+
+.bg-main {
+    background-color: white;
+}
+
+.navbar-toggler {
+    margin-right: 0px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+h6 {
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.card-img-top {
+    width: 120px;
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-12 {
+    padding-bottom: 20px;
+}
